@@ -1,2 +1,2 @@
-# Proteogenomics-Manuscript
-A companion git repository for the manuscript "Comparative proteogenomic analysis of two differentially virulent Mycobacterium tuberculosis W/Beijing strains."
+# Progenio-Manuscript
+A companion git repository for the manuscript "Progenio: A Next-Generation Proteogenomics Pipeline for Precision Pathogen Analysis".
